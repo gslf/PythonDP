@@ -6,7 +6,7 @@ This is a collection (in progress) of practical implementations of design patter
 ### Content
 - [Singleton](/Singleton/README.md)
 - [Factory and Abstract Factory](/FactoryAbstractFactory/README.md)
-
+- [Builder](/Builder/README.md)
 
 ---
 
