@@ -11,7 +11,7 @@ The Builder pattern hides the creation logic of a complex object, meaning the cl
 
 This is a visual representation of this pattern:
 
-![Builder Pattern Visual Representation](/Builder/res/builder.png)
+![Prototype Pattern Visual Representation](/Prototype/res/prototype_visualization.png)
 
 
 This is an implementation of the builder pattern:
