@@ -13,7 +13,7 @@ This is a visual representation of this pattern:
 
 ![Prototype Pattern Visual Representation](/Prototype/res/prototype_visualization.png)
 
-
+## Implementation
 This is an implementation of the builder pattern:
 ```python
 from abc import ABC, abstractmethod
