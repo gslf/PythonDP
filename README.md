@@ -9,6 +9,7 @@ This is a collection (in progress) of practical implementations of design patter
 - [Builder](/Builder/README.md)
 - [Prototype](/Prototype/README.md)
 - [Decorator](/Decorator/README.md)
+- [Adapter](/Adapter/README.md)
 
 ---
 
