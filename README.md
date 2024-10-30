@@ -10,6 +10,7 @@ This is a collection (in progress) of practical implementations of design patter
 - [Prototype](/Prototype/README.md)
 - [Decorator](/Decorator/README.md)
 - [Adapter](/Adapter/README.md)
+- [Bridge](/Bridge/README.md)
 
 ---
 
