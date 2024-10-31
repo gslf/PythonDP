@@ -3,7 +3,7 @@
 
 This is a collection (in progress) of practical implementations of design patterns aimed at solving real-world problems elegantly. This repository showcases how well-established patterns can be applied to common challenges in software development, providing clean, maintainable, and scalable solutions.
 
-### Content
+### Contents
 - [Singleton](/Singleton/README.md)
 - [Factory and Abstract Factory](/FactoryAbstractFactory/README.md)
 - [Builder](/Builder/README.md)
@@ -11,6 +11,7 @@ This is a collection (in progress) of practical implementations of design patter
 - [Decorator](/Decorator/README.md)
 - [Adapter](/Adapter/README.md)
 - [Bridge](/Bridge/README.md)
+- [Composite](/Composite/README.md)
 
 ---
 
