@@ -12,6 +12,7 @@ This is a collection (in progress) of practical implementations of design patter
 - [Adapter](/Adapter/README.md)
 - [Bridge](/Bridge/README.md)
 - [Composite](/Composite/README.md)
+- [Facade](/Facade/README.md)
 
 ---
 
