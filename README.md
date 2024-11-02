@@ -13,6 +13,7 @@ This is a collection (in progress) of practical implementations of design patter
 - [Bridge](/Bridge/README.md)
 - [Composite](/Composite/README.md)
 - [Facade](/Facade/README.md)
+- [Flyweight](/Flyweight/README.md)
 
 ---
 
