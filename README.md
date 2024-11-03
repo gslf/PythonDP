@@ -14,6 +14,7 @@ This is a collection (in progress) of practical implementations of design patter
 - [Composite](/Composite/README.md)
 - [Facade](/Facade/README.md)
 - [Flyweight](/Flyweight/README.md)
+- [Proxy](/Proxy/README.md)
 
 ---
 
