@@ -2,7 +2,7 @@
 
 The Flyweight pattern is a structural design pattern that helps reduce the memory footprint of applications by **sharing data across multiple similar objects**. It allows the creation of a large number of fine-grained objects efficiently, without duplicating shared state. This pattern is particularly useful when your program needs to instantiate many similar objects, such as GUI components, characters in a game, or even data entries in a big dataset.
 
-![Facade Pattern Visual Representation](/Facade/res/facade_visualization.png)
+![Flyweight Pattern Visual Representation](/Flyweight/res/flyweight_visualization.png)
 
 For those who prefer a visual approach, imagine the Flyweight pattern as similar to an art studio painting multiple identical canvases with slight variations. Instead of creating an entire new painting for each canvas from scratch, the artist uses stencils for the common parts and applies unique touches only where needed.
 
