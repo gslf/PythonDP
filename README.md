@@ -1,10 +1,18 @@
 # PythonDP
 **Design Pattern** explained and implemented in Python
 
-This is a collection (in progress) of practical implementations of design patterns aimed at solving real-world problems elegantly. This repository showcases how well-established patterns can be applied to common challenges in software development, providing clean, maintainable, and scalable solutions.
+This repository is designed for developers who are looking to sharpen their coding skills with practical, real-world examples. It’s a collection of solutions that will help you not only write better Python code but also understand the philosophical underpinnings of good software engineering practices.
 
 ### Architectural
-## TODO In progress . . .
+- [MVC](/Architectural/MVC/README.md)
+- [MVP](/Architectural/MVP/README.md)
+- MVVM // TODO
+- Clean Architecture // TODO
+- Microservices // TODO
+- API Gateway // TODO 
+- Event-Driven Architecture // TODO
+
+
 
 ### Behavioral
 - [Chain of Responsibility](/Behavioral/ChainResponsibility/README.md)
@@ -12,9 +20,17 @@ This is a collection (in progress) of practical implementations of design patter
 - [Interpreter](/Behavioral/Interpreter/README.md)
 - [Observer](/Behavioral/Observer/README.md)
 - [Visitor](/Behavioral/Visitor/README.md)
+- Mediator // TODO
+- Memento // TODO
+- Strategy // TODO
+- State // TODO
+- Template Method // TODO
 
 ### Concurrency
-## TODO In progress . . .
+- Thread Pool // TODO 
+- Producer-Consumer // TODO
+- Lock/Monitor// TODO
+- Actor Model // TODO 
 
 ### Creational
 - [Builder](/Creational/Builder/README.md)
@@ -23,10 +39,15 @@ This is a collection (in progress) of practical implementations of design patter
 - [Singleton](/Creational/Singleton/README.md)
 
 ### Functional Programming
-## TODO In progress . . .
+- Function Composition // TODO 
+- Curryng // TODO
+- Monads // TODO
+- Immutability // TODO
 
 ### Security
-## TODO In progress . . .
+- SecureFactory // TODO
+- Validation and Sanitization // TODO
+- Authentication Proxy // TODO
 
 ### Structural
 - [Adapter](/Structural/Adapter/README.md)
@@ -37,8 +58,10 @@ This is a collection (in progress) of practical implementations of design patter
 - [Flyweight](/Structural/Flyweight/README.md)
 - [ObjectPool](/Structural/ObjectPool/README.md)
 - [Proxy](/Structural/Proxy/README.md)
+- Data Access Object // TODO
 
 ---
 
-This repository is designed for developers who are looking to sharpen their coding skills with practical, real-world examples. It’s a collection of solutions that will help you not only write better Python code but also understand the philosophical underpinnings of good software engineering practices.
+[GSLF :/#](https://gslf.it)
+
 
