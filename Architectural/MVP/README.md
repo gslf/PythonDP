@@ -27,6 +27,7 @@ The trade-off is that the Presenter can become quite large as it handles all the
 | MVVM | ViewModel | View | Two-way data binding | High | Steep |
 | Clean Architecture | Use cases & entities | Interface adapters | Controllers | Very High | Very Steep |
 
+
 ## Implementation
 Let's consider a task management application to understand MVP in action. We need a model that manages task data (creation, storage, update) and a view that displays the task list. The presenter coordinates operations between the view and the model.
 

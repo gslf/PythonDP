@@ -6,8 +6,8 @@ This repository is designed for developers who are looking to sharpen their codi
 ### Architectural
 - [MVC](/Architectural/MVC/README.md)
 - [MVP](/Architectural/MVP/README.md)
-- MVVM // TODO
-- Clean Architecture // TODO
+- [MVVM](Architectural/MVVM/README.md)
+- [Clean Architecture](Architectural/CleanArchitecture/README.md)
 - Microservices // TODO
 - API Gateway // TODO 
 - Event-Driven Architecture // TODO
