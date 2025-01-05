@@ -6,5 +6,5 @@
 - [MVVM](Architectural/MVVM/README.md)
 - [Clean Architecture](Architectural/CleanArchitecture/README.md)
 - [Microservices](Architectural/Microservices/README.md)
-- API Gateway // TODO 
-- Event-Driven Architecture // TODO
+- [API Gateway](Architectural/APIGateway/README.md) 
+- [Event-Driven Architecture](Architectural/EventDriven/README.md)
