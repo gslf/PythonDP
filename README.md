@@ -20,29 +20,38 @@ This repository is designed for developers who are looking to sharpen their codi
 - [Interpreter](/Behavioral/Interpreter/README.md)
 - [Observer](/Behavioral/Observer/README.md)
 - [Visitor](/Behavioral/Visitor/README.md)
-- Mediator // TODO
+- [Mediator](/Behavioral/Mediator/README.md)
 - Memento // TODO
 - Strategy // TODO
 - State // TODO
 - Template Method // TODO
+- Blackboard // TODO
+- Null Object // TODO
+- Servant // TODO
 
-### Concurrency
-- Thread Pool // TODO 
-- Producer-Consumer // TODO
-- Lock/Monitor// TODO
-- Actor Model // TODO 
+
 
 ### Creational
 - [Builder](/Creational/Builder/README.md)
 - [Factory and Abstract Factory](/Creational/Factory/README.md)
 - [Prototype](/Creational/Prototype/README.md)
 - [Singleton](/Creational/Singleton/README.md)
+- Multiton // TODO
+- Dependency Injection // TODO
+- RAII // TODO
+- LAZY INSTANTIATION // TODO
 
 ### Functional Programming
 - Function Composition // TODO 
 - Curryng // TODO
 - Monads // TODO
 - Immutability // TODO
+
+### Concurrency
+- Thread Pool // TODO 
+- Producer-Consumer // TODO
+- Lock/Monitor// TODO
+- Actor Model // TODO 
 
 ### Security
 - SecureFactory // TODO
