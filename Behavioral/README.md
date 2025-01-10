@@ -7,8 +7,8 @@
 - [Observer](/Behavioral/Observer/README.md)
 - [Visitor](/Behavioral/Visitor/README.md)
 - [Mediator](/Behavioral/Mediator/README.md)
-- Memento // TODO
-- Strategy // TODO
+- [Memento](/Behavioral/Memento/README.md)
+- [Strategy](/Behavioral/Strategy/README.md)
 - State // TODO
 - Template Method // TODO
 - Blackboard // TODO

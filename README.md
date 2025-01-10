@@ -21,8 +21,8 @@ This repository is designed for developers who are looking to sharpen their codi
 - [Observer](/Behavioral/Observer/README.md)
 - [Visitor](/Behavioral/Visitor/README.md)
 - [Mediator](/Behavioral/Mediator/README.md)
-- Memento // TODO
-- Strategy // TODO
+- [Memento](/Behavioral/Memento/README.md)
+- [Strategy](/Behavioral/Strategy/README.md)
 - State // TODO
 - Template Method // TODO
 - Blackboard // TODO
