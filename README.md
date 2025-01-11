@@ -23,7 +23,7 @@ This repository is designed for developers who are looking to sharpen their codi
 - [Mediator](/Behavioral/Mediator/README.md)
 - [Memento](/Behavioral/Memento/README.md)
 - [Strategy](/Behavioral/Strategy/README.md)
-- State // TODO
+- [State](/Behavioral/State/README.md)
 - Template Method // TODO
 - Blackboard // TODO
 - Null Object // TODO

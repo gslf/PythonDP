@@ -11,6 +11,10 @@ The Strategy pattern consists of three main components:
 
 ![Strategy Pattern Representation](/Behavioral/Strategy/res/strategy_visualization.png)
 
+This pattern is similar to the State pattern, the key distinction lies in their intent: Strategy is about providing different ways to do the same thing, while State is about organizing state-dependent code where an object behaves differently based on its internal state.
+
+A practical way to remember the difference is that in the Strategy pattern, the client typically decides which strategy to use and explicitly sets it, while in the State pattern, the states themselves manage transitions between each other based on the object's internal condition. Strategy is about "how" something is done, State is about "what" can be done at a particular moment.
+
 ## Implementation
 Let's consider a real-world example: a payment processing system for an e-commerce platform. In this scenario, customers can choose different payment methods (PayPal, credit card, bank transfer) at checkout. Each payment method has its own processing logic, but they all need to handle the payment transaction.
 
