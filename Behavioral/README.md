@@ -10,7 +10,7 @@
 - [Memento](/Behavioral/Memento/README.md)
 - [Strategy](/Behavioral/Strategy/README.md)
 - [State](/Behavioral/State/README.md)
-- Template Method // TODO
+- [Template Method](/Behavioral/Template/README.md)
 - Blackboard // TODO
 - Null Object // TODO
 - Servant // TODO
