@@ -25,7 +25,7 @@ This repository is designed for developers who are looking to sharpen their codi
 - [Strategy](/Behavioral/Strategy/README.md)
 - [State](/Behavioral/State/README.md)
 - [Template Method](/Behavioral/Template/README.md)
-- Blackboard // TODO
+- [Blackboard](/Behavioral/Blackboard/README.md)
 - Null Object // TODO
 - Servant // TODO
 

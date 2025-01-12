@@ -4,7 +4,7 @@ The Chain of Responsibility (CoR) is a behavioral design pattern that allows pas
 
 This pattern is particularly useful when you have multiple scenarios for handling requests, and the specific scenario is determined at runtime. CoR promotes open-ended extension as new handlers can be added to the chain with minimal modifications to existing code, adhering to the Open/Closed Principle.
 
-![Chain Responsibility - Visual Representation](/ChainResponsibility/res/chain_responsibility_visualization.png)
+![Chain Responsibility - Visual Representation](/Behavioral/ChainResponsibility/res/chain_responsibility_visualization.png)
 
 Think of the Chain of Responsibility as a series of interconnected nodes, each representing a potential handler for a request. Imagine a production line where a defective product is inspected at each stage; each station checks the product, and if that specific station can't fix the defect, it passes the product to the next station in the line.
 
