@@ -2,7 +2,7 @@
 
 **Factory** and **Abstract Factory** are two patterns frequently applied when dealing with object creation. In the **Factory** design pattern, we encapsulate the object creation process in a method, allowing the code to rely on a common interface or abstract class rather than concrete implementations. **Abstract Factory** goes a step further: it allows for creating families of related objects without specifying their concrete classes.
 
-![Factory Design Pattern Visual Representation](/FactoryAbstractFactory/res/factory.png)
+![Factory Design Pattern Visual Representation](/Creational/Factory/res/factory.png)
 
 The **Factory** pattern can be likened to Aristotle’s *potentiality* and *actuality*. The factory holds the potential to create an object, and it is through calling the factory method that the potential becomes actual. The **Abstract Factory**, however, can be seen as a reflection of **Plato's Theory of Forms**. The abstract factory represents the *idea* of a family of objects—an ideal or blueprint—while the concrete factories are instances of these forms in different contexts. Through abstraction, both patterns allow for higher-order thinking in code, moving away from specific instantiations towards generalized forms.
 
