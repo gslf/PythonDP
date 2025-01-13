@@ -12,5 +12,5 @@
 - [State](/Behavioral/State/README.md)
 - [Template Method](/Behavioral/Template/README.md)
 - [Blackboard](/Behavioral/Blackboard/README.md)
-- Null Object // TODO
-- Servant // TODO
+- [Null Object](/Behavioral/NullObject/README.md)
+- [Servant](/Behavioral/Servant/README.md)

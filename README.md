@@ -26,8 +26,8 @@ This repository is designed for developers who are looking to sharpen their codi
 - [State](/Behavioral/State/README.md)
 - [Template Method](/Behavioral/Template/README.md)
 - [Blackboard](/Behavioral/Blackboard/README.md)
-- Null Object // TODO
-- Servant // TODO
+- [Null Object](/Behavioral/NullObject/README.md)
+- [Servant](/Behavioral/Servant/README.md)
 
 
 
@@ -36,7 +36,7 @@ This repository is designed for developers who are looking to sharpen their codi
 - [Factory and Abstract Factory](/Creational/Factory/README.md)
 - [Prototype](/Creational/Prototype/README.md)
 - [Singleton](/Creational/Singleton/README.md)
-- Multiton // TODO
+- [Multiton](/Creational/Multiton/README.md)
 - Dependency Injection // TODO
 - RAII // TODO
 - LAZY INSTANTIATION // TODO
