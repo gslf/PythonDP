@@ -5,4 +5,8 @@
 - [Factory and Abstract Factory](/Creational/Factory/README.md)
 - [Prototype](/Creational/Prototype/README.md)
 - [Singleton](/Creational/Singleton/README.md)
+- [Multiton](/Creational/Multiton/README.md)
+- [Dependency Injection](/Creational/DependencyInjection/README.md)
+- RAII // TODO
+- LAZY INSTANTIATION // TODO
 

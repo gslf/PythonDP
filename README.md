@@ -37,7 +37,7 @@ This repository is designed for developers who are looking to sharpen their codi
 - [Prototype](/Creational/Prototype/README.md)
 - [Singleton](/Creational/Singleton/README.md)
 - [Multiton](/Creational/Multiton/README.md)
-- Dependency Injection // TODO
+- [Dependency Injection](/Creational/DependencyInjection/README.md)
 - RAII // TODO
 - LAZY INSTANTIATION // TODO
 
