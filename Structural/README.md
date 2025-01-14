@@ -9,3 +9,4 @@
 - [Flyweight](/Structural/Flyweight/README.md)
 - [ObjectPool](/Structural/ObjectPool/README.md)
 - [Proxy](/Structural/Proxy/README.md)
+- [Data Access Object](/Structural/DataAccessObject/README.md)

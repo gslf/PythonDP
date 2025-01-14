@@ -67,7 +67,7 @@ This repository is designed for developers who are looking to sharpen their codi
 - [Flyweight](/Structural/Flyweight/README.md)
 - [ObjectPool](/Structural/ObjectPool/README.md)
 - [Proxy](/Structural/Proxy/README.md)
-- Data Access Object // TODO
+- [Data Access Object](/Structural/DataAccessObject/README.md)
 
 ---
 
