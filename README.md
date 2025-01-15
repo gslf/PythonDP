@@ -53,9 +53,9 @@ This repository is designed for developers who are looking to sharpen their codi
 - Actor Model // TODO 
 
 ### Security
-- SecureFactory // TODO
-- Validation and Sanitization // TODO
-- Authentication Proxy // TODO
+- [Secure Factory](/Security/SecureFactory/README.md)
+- [Validation and Sanitization](/Security/ValidationSanitization/README.md)
+- [Authentication Proxy](/Security/AuthenticationProxy/README.md)
 
 ### Structural
 - [Adapter](/Structural/Adapter/README.md)
