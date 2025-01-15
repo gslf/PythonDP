@@ -38,8 +38,7 @@ This repository is designed for developers who are looking to sharpen their codi
 - [Singleton](/Creational/Singleton/README.md)
 - [Multiton](/Creational/Multiton/README.md)
 - [Dependency Injection](/Creational/DependencyInjection/README.md)
-- RAII // TODO
-- LAZY INSTANTIATION // TODO
+- [Lazy Instantiation](/Creational/LazyInstantiation/README.md)
 
 ### Functional Programming
 - Function Composition // TODO 
