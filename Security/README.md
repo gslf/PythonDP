@@ -1,5 +1,5 @@
 # PythonDP
-**SSecurity Design Pattern**
+**Security Design Pattern**
 
 ### Security
 - [Secure Factory](/Security/SecureFactory/README.md)
