@@ -41,10 +41,10 @@ This repository is designed for developers who are looking to sharpen their codi
 - [Lazy Instantiation](/Creational/LazyInstantiation/README.md)
 
 ### Functional Programming
-- Function Composition // TODO 
-- Curryng // TODO
-- Monads // TODO
-- Immutability // TODO
+- [Function Composition](/FunctionalProgramming/FunctionComposition/README.md) 
+- [Currying](/FunctionalProgramming/Currying/README.md)
+- [Monads](/FunctionalProgramming/Monads/README.md)
+- [Immutability](/FunctionalProgramming/Immutability/README.md)
 
 ### Concurrency
 - Thread Pool // TODO 
