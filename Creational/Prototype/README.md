@@ -4,7 +4,7 @@ The Prototype pattern is a creational design pattern that is used to create new 
 
 Consider a scenario in a game development environment. Imagine you need to spawn thousands of non-player characters (NPCs) that share similar attributes but have slight differences. Instead of creating each NPC from scratch, which could be resource-heavy and time-consuming, you create a prototype character with base attributes. You then clone this character, adjusting only what’s necessary for each instance. The prototype pattern offers an elegant way to manage such scenarios.
 
-![Builder Pattern Visual Representation](/Builder/res/builder.png)
+![Builder Pattern Visual Representation](/Creational/Builder/res/builder.png)
 
 ## Implementation
 

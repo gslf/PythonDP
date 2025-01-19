@@ -6,7 +6,7 @@
 Tthe Singleton pattern aligns with the **principle of ontological parsimony**, the idea that entities should not be multiplied unnecessarily. From a software perspective, creating multiple instances of certain objects can introduce unnecessary complexity, redundancy, and inconsistency. The Singleton avoids these pitfalls by ensuring **one and only one** instance exists, governing its realm of responsibility.
 
 
-![Singleton Visual Representation](/Singleton/res/singleton.png)
+![Singleton Visual Representation](/Creational/Singleton/res/singleton.png)
 
 
 ## When and Why to Use the Singleton
