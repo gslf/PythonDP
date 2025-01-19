@@ -48,7 +48,7 @@ This repository is designed for developers who are looking to sharpen their codi
 
 ### Concurrency
 - [Thread Pool](/Concurrency/ThreadPool/README.md) 
-- Producer-Consumer // TODO
+- [Producer-Consumer](/Concurrency/ProducerConsumer/README.md)
 - Lock/Monitor// TODO
 - Actor Model // TODO 
 
