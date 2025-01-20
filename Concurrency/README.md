@@ -3,5 +3,5 @@
 
 - [Thread Pool](/Concurrency/ThreadPool/README.md) 
 - [Producer-Consumer](/Concurrency/ProducerConsumer/README.md)
-- Lock/Monitor// TODO
-- Actor Model // TODO 
+- [Lock/Monitor](/Concurrency/LockMonitor/README.md)
+- [Actor Model](/Concurrency/ActorModel/README.md) 

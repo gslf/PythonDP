@@ -12,8 +12,6 @@ This repository is designed for developers who are looking to sharpen their codi
 - [API Gateway](Architectural/APIGateway/README.md)
 - [Event-Driven Architecture](Architectural/EventDriven/README.md)
 
-
-
 ### Behavioral
 - [Chain of Responsibility](/Behavioral/ChainResponsibility/README.md)
 - [Command](/Behavioral/Command/README.md)
@@ -28,8 +26,6 @@ This repository is designed for developers who are looking to sharpen their codi
 - [Blackboard](/Behavioral/Blackboard/README.md)
 - [Null Object](/Behavioral/NullObject/README.md)
 - [Servant](/Behavioral/Servant/README.md)
-
-
 
 ### Creational
 - [Builder](/Creational/Builder/README.md)
@@ -49,8 +45,8 @@ This repository is designed for developers who are looking to sharpen their codi
 ### Concurrency
 - [Thread Pool](/Concurrency/ThreadPool/README.md) 
 - [Producer-Consumer](/Concurrency/ProducerConsumer/README.md)
-- Lock/Monitor// TODO
-- Actor Model // TODO 
+- [Lock/Monitor](/Concurrency/LockMonitor/README.md)
+- [Actor Model](/Concurrency/ActorModel/README.md) 
 
 ### Security
 - [Secure Factory](/Security/SecureFactory/README.md)
